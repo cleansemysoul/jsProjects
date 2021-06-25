@@ -99,3 +99,6 @@ body {
   line-height: 30px;
   letter-spacing: 1px;
 }
+ul {
+  font-size: 0.5em;
+}
